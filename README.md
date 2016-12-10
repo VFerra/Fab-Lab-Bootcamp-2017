@@ -9,4 +9,4 @@
 
 ##Primo lavoro##
 
-Creazione di un [logo per il taglio laser](http://Logo x taglio laser.svg)
+Creazione di un [logo per il taglio laser](https://Logo x taglio laser.svg)
